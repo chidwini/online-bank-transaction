@@ -1,1 +1,1 @@
-# online-banking-system
+# online-bank-system
